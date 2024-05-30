@@ -1,0 +1,26 @@
+# Node artifacts
+/node_modules
+/dist
+npm-debug.log*
+venv/
+__pycache__
+
+# Angular generated files and logs
+/.angular
+/angular-*.log
+
+# IDE and editor artifacts
+/.idea
+/.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?    # swaps
+
+# Miscellaneous
+/.npmrc
+/.yarnrc
+*.tgz
+*.lock
+*.log
